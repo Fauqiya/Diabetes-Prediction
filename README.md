@@ -27,5 +27,16 @@ This project predicts whether a patient has diabetes based on medical attributes
 - Matplotlib, Seaborn
 - Scikit-learn
 
+## Visualizations
+
+### Correlation Heatmap
+![Heatmap](Heatmap.png)
+
+### ROC Curve
+![ROC](ROC_curve.png)
+
+### Outcome Distribution
+![Outcome](Outcome.png)
+
 ## 🚀 Conclusion
 The model shows good ability to distinguish between diabetic and non-diabetic patients based on medical data.
